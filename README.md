@@ -1,1 +1,3 @@
-<h1>https://mrhecka.github.io/spesial.github.io/</h1>
+## Web Bucin
+
+[``LINK``](https://xanzheus.github.io/bucin)
